@@ -144,4 +144,5 @@ for i = 1:length(linecodes)
     end
 end
 
-sgtitle('Digital Line Coding Techniques with Graph Paper Background');
+sgtitle('Digital Line Coding Techniques');
+
